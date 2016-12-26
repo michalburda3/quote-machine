@@ -2,4 +2,4 @@
 twitter quote machine 
 
 
-Doesn't work on github pages because of not secure API.
+Doesn't work directly on github pages because API is not secure.
